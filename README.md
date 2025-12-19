@@ -1,4 +1,4 @@
-**© [lichani belkacem], 2024. Tous droits réservés.**
+**© [lichani belkacem], 2025. Tous droits réservés.**
 
 *Ce dépôt contient le code source et les résultats du projet de recherche personnel **FRACTAL-ADN**. Ce travail est publié à titre de **preuve de concept et de démonstration**.*
 *La réutilisation, la distribution ou la modification du code, des algorithmes ou des résultats présentés **requièrent une autorisation écrite préalable de l'auteur**. Pour toute demande de collaboration ou d'utilisation, veuillez me contacter.*
