@@ -15,6 +15,6 @@ The core script (`fractaldim3d.py`) provides a complete pipeline to:
 3.  Output the result and a quality metric (R²).
 
 ## 👤 Author
-lichani belkacem- Independent Researcher.
+lichani belkacem- Instrumentiste 
 
 *This is a personal research project in computational biology.*
