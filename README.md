@@ -1,3 +1,8 @@
+**© [lichani belkacem], 2024. Tous droits réservés.**
+
+*Ce dépôt contient le code source et les résultats du projet de recherche personnel **FRACTAL-ADN**. Ce travail est publié à titre de **preuve de concept et de démonstration**.*
+*La réutilisation, la distribution ou la modification du code, des algorithmes ou des résultats présentés **requièrent une autorisation écrite préalable de l'auteur**. Pour toute demande de collaboration ou d'utilisation, veuillez me contacter.*
+---
 # FRACTAL-ADN: Predicting Promoter Plasticity from 3D Fractal Dimension
 
 This project introduces a novel geometric biomarker for DNA function: the **3D fractal dimension (D)** calculated directly from atomic structures (PDB files).
